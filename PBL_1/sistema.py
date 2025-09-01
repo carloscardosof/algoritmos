@@ -1,0 +1,1 @@
+print('Bem vindo à Papa Légua Express!')

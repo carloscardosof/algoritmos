@@ -1,0 +1,34 @@
+ATIVIDADES - PBL 1/2
+
+As atividades abaixo devem ser realizadas no arquivo "sistema.py".
+
+O sistema deve funcionar da seguinte maneira: ele recebe várias entradas com dados de pedidos. Ao final dos exercícios ele deverá ser capaz de decidir quando e como tais pedidos serão entregues.
+
+
+1. Adicione uma mensagem que complemente a mensagem de boas-vinas, explicando em uma frase o que a Papa Léguas Expressa faz.
+
+2. Peça ao usuário para digitar o nome de um cliente e mostre a mensagem:
+
+    Pedido registrado para o cliente: [nome]
+
+3. Agora peça e armazene os dados do pedido: produto, bairro de entrega, quantidade e exiba todos os dados do pedido.
+
+4. Registre a data e hora em que o pedido foi feito.
+
+5. Crie um registro que contenha uma lista de bairros disponíveis para a entrega e a distância deles para a empresa.
+
+6. Caso o bairro para entrega não esteja na lista de bairros disponíveis, exibir uma mensagem indicando a indisponibilidade.
+
+7. Crie uma lista de produtos disponíveis com a quantidade de produtos.
+
+8. Verifique se o produto pedido está em estoque, senão exiba uma mensagem cancelando o pedido.
+
+9. Crie uma lista de entregadores disponíveis e uma lista de entregadores ocupados. Quando um entregador sair para a entrega deve ser retirado da lista de disponível e ser colocado na lista de ocupado.
+
+10. Crie uma lista de espera de pedidos.
+
+11. Caso o pedido não apresente nenhum problema, o inclua na lista de espera.
+
+12. Crie uma lista de pedidos a caminho e uma lista de pedidos entregues.
+
+13. Após cada pedido válido realizado, verifique se há um entregador disponível. Caso sim, coloque o pedido na lista de pedidos a caminho e o entregador na lista de ocupado. Caso não exiba uma mensagem "Aguardando entregador".
