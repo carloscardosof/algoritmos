@@ -1,9 +1,9 @@
 ATIVIDADES - PBL 1/2
+--------------------
 
 As atividades abaixo devem ser realizadas no arquivo "sistema.py".
 
-O sistema deve funcionar da seguinte maneira: ele recebe várias entradas com dados de pedidos. Ao final dos exercícios ele deverá ser capaz de decidir quando e como tais pedidos serão entregues.
-
+--------------------
 
 1. Adicione uma mensagem que complemente a mensagem de boas-vinas, explicando em uma frase o que a Papa Léguas Expressa faz.
 
@@ -15,13 +15,21 @@ O sistema deve funcionar da seguinte maneira: ele recebe várias entradas com da
 
 4. Registre a data e hora em que o pedido foi feito.
 
-5. Crie um registro que contenha uma lista de bairros disponíveis para a entrega e a distância deles para a empresa.
+5. Crie um registro que contenha uma lista de bairros disponíveis para a entrega.
 
 6. Caso o bairro para entrega não esteja na lista de bairros disponíveis, exibir uma mensagem indicando a indisponibilidade.
 
 7. Crie uma lista de produtos disponíveis com a quantidade de produtos.
 
 8. Verifique se o produto pedido está em estoque, senão exiba uma mensagem cancelando o pedido.
+
+-----------------------
+
+Agora reimplemente o programa no arquivo "sistema_loop.py". As declarações de variáveis devem ficar fora do bloco WHILE, enquanto o código deve ser executado dentro desse bloco, quando for aplicável.
+
+O sistema agora roda dentro de um loop, que finaliza após receber a instrução "terminar". Enquanto isso não acontece, o sistema recebe um pedido e após processá-lo repete o processo.
+
+----------
 
 9. Crie uma lista de entregadores disponíveis e uma lista de entregadores ocupados. Quando um entregador sair para a entrega deve ser retirado da lista de disponível e ser colocado na lista de ocupado.
 
@@ -32,3 +40,15 @@ O sistema deve funcionar da seguinte maneira: ele recebe várias entradas com da
 12. Crie uma lista de pedidos a caminho e uma lista de pedidos entregues.
 
 13. Após cada pedido válido realizado, verifique se há um entregador disponível. Caso sim, coloque o pedido na lista de pedidos a caminho e o entregador na lista de ocupado. Caso não exiba uma mensagem "Aguardando entregador".
+
+14. Na lista de bairros adicione a distância de cada bairro.
+
+15. A partir de agora o sistema não deve mais aceitar pedidos diretamente. Ao invés disso ele deve aceitar comandos que indicarão qual ação deve ser tomada. Quando o comando abaixo é digitado no prompt a ação que o segue deve ser realizada:
+
+    pedido : permite cadastrar um novo pedido.
+    exibir pedidos : exibe todos os pedidos que estão na lista de espera.
+    entrega : exibe todos os pedidos que saíram para a entrega.
+    entregadores: exibe a lista de todos os entregadores disponíveis.
+    caminho: exibe a lista de entregadores que saíram para entrega.
+    concluido: exibe a lista de entregas realizadas.
+    entregar : o sistema tenta alocar uma entrega.
