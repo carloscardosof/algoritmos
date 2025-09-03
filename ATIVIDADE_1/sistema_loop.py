@@ -6,6 +6,7 @@ while entrada != 'terminar':
 
     entrada = input('Qual o seu pedido?\n')
 
+    #A partir da atividade 9 todo o código deve ser colocado neste arquivo
 
 
 
