@@ -1,8 +1,8 @@
 print("Seja bem vindo à Papa Léguas Express!");
 
-entrada = 'ativo'
+ativo = True
 
-while entrada != 'terminar':
+while ativo:
 
     entrada = input('Qual o seu pedido?\n')
 

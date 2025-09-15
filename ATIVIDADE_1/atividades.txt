@@ -5,7 +5,7 @@ As atividades abaixo devem ser realizadas no arquivo "sistema.py".
 
 --------------------
 
-1. Adicione uma mensagem que complemente a mensagem de boas-vinas, explicando em uma frase o que a Papa Léguas Expressa faz.
+1. Adicione uma mensagem que complemente a mensagem de boas-vindas, explicando em uma frase o que a Papa Léguas Expressa faz.
 
 2. Peça ao usuário para digitar o nome de um cliente e mostre a mensagem:
 
@@ -39,7 +39,7 @@ O sistema agora roda dentro de um loop, que finaliza após receber a instrução
 
 12. Crie uma lista de pedidos a caminho e uma lista de pedidos entregues.
 
-13. Após cada pedido válido realizado, verifique se há um entregador disponível. Caso sim, coloque o pedido na lista de pedidos a caminho e o entregador na lista de ocupado. Caso não exiba uma mensagem "Aguardando entregador".
+13. Após cada pedido válido realizado, verifique se há pelo menos 2 pedidos na lista de espera e verifique se há um entregador disponível. Caso sim, coloque o pedido na lista de pedidos a caminho e o entregador na lista de ocupado. Caso não exiba uma mensagem "Aguardando entregador".
 
 14. Na lista de bairros adicione a distância de cada bairro.
 
