@@ -1,0 +1,62 @@
+[
+    {
+        "descricao": "Almoço no restaurante",
+        "valor": 42.50,
+        "categoria": "Alimentação",
+        "data": "2025-10-01"
+    },
+    {
+        "descricao": "Compra de livros",
+        "valor": 120.00,
+        "categoria": "Educação",
+        "data": "2025-10-03"
+    },
+    {
+        "descricao": "Conta de energia elétrica",
+        "valor": 189.75,
+        "categoria": "Moradia",
+        "data": "2025-10-05"
+    },
+    {
+        "descricao": "Gasolina do carro",
+        "valor": 230.00,
+        "categoria": "Transporte",
+        "data": "2025-10-07"
+    },
+    {
+        "descricao": "Mensalidade da academia",
+        "valor": 99.90,
+        "categoria": "Saúde",
+        "data": "2025-10-08"
+    },
+    {
+        "descricao": "Assinatura de streaming",
+        "valor": 34.90,
+        "categoria": "Lazer",
+        "data": "2025-10-09"
+    },
+    {
+        "descricao": "Supermercado do mês",
+        "valor": 512.40,
+        "categoria": "Alimentação",
+        "data": "2025-10-10"
+    },
+    {
+        "descricao": "Compra de roupas",
+        "valor": 280.00,
+        "categoria": "Vestuário",
+        "data": "2025-10-11"
+    },
+    {
+        "descricao": "Consulta médica",
+        "valor": 250.00,
+        "categoria": "Saúde",
+        "data": "2025-10-12"
+    },
+    {
+        "descricao": "Presente de aniversário",
+        "valor": 85.00,
+        "categoria": "Outros",
+        "data": "2025-10-14"
+    }
+]

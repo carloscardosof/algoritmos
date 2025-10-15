@@ -1,0 +1,29 @@
+ATIVIDADE 2 - PBL 3
+
+1. Crie uma função que escreva "Olá mundo!" e a utilize 4 vezes.
+
+2. Crie uma funçẽo que receba uma string como argumento e o escreva no terminal.
+
+3. Crie uma função que recebe uma string e um número como argumentos. Escreva a mensagem um número de vezes igual ao número do segundo argumento.
+
+4. Crie uma função que receba dois números, os some e retorne o resultado.
+
+5. Crie uma função que receba dois números como argumento e retorne o maior deles.
+
+6. Crie uma função que receba dois números como argumento e uma string. A partir da string a função deve decidir se vai retornar o número maior ou menor e retornar tal número.
+
+7. Crie uma função que receba dois argumentos numéricos. O primeiro deve ser dividido pelo segundo e o resultado retornado. Se o divisor for zero, dever ser exibida uma mensagem de erro.
+
+8. Crie uma função que peça para o usuário digitar um número. Some 10 ao número e exiba o resultado. Caso a entrada não seja válida deve exibir uma mensagem de erro.
+
+9. Crie uma função que abra o arquivo "compras.txt", e exiba seu conteúdo.
+
+10. Crie uma função que receba duas strings como argumentos. O primeiro argumento é o nome do arquivo que deverá ser criado. O segundo argumento é o texto que deverá ser salvo no arquivo.
+
+11. Crie uma função que receba uma string como argumento. Ela deve abrir o arquivo "compras.txt" e adicionar a string ao final do arquivo. Depois deve exibir o conteúdo do arquivo.
+
+12. Crie uma função que abra o arquivo "livro.json" e exiba seu conteúdo.
+
+13. Crie uma função que receba como argumentos: descrição da compra, valor, data e categoria, e os salve como um novo registro em gastos.json.
+
+ 
