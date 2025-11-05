@@ -1,6 +1,8 @@
 #importando as funcoes de outro arquivo
+import os
 from funcoes import *
 
+#print(entrada())
 
-
-primeira_funcao()
+with open("dados/gastos.json", "r") as file:
+    print(file.read())

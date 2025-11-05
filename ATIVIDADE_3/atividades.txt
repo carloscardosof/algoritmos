@@ -1,0 +1,16 @@
+
+1. Crie uma função que tenha um número como argumento e exiba todos os números, começando pelo número do argumento até chegar a zero. Não deve ser tuilizada nenhuma estrutura de repetição (lopp, while), apenas funções. 
+
+2. Crie uma função que receba um número como argumento e calcule o seu fatorial, sem utilizar estruturas de repetição (while, for).
+
+3. Crie uma função que receba um número "N" como argumento e calcule a soma total dos números de 1 até "N". 
+
+4. Crie uma função que calcule a sequência de Fibonacci de forma recursiva.
+
+5. Crie uma função que receba uma lista de números como argumento e calcule a soma total dos números.
+
+6. Crie uma função que leia a variável "categorias_hardware" e exiba todo o seu conteúdo organizado por categoria e subcategoria.
+
+7. Crie uma função que encontre uma categoria específica na variável "categorias_hardware".
+
+8. Crie uma função que adicione uma categoria a uma categoria específica na variável "categorias_hardware".
